@@ -1,0 +1,22 @@
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\bin\Debug\Henry Hernandez W1 POS409 Tip Calculator.exe.config
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\bin\Debug\Henry Hernandez W1 POS409 Tip Calculator.exe
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\bin\Debug\Henry Hernandez W1 POS409 Tip Calculator.pdb
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.csprojResolveAssemblyReference.cache
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry_Hernandez_W1_POS409_Tip_Calculator.Properties.Resources.resources
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.csproj.GenerateResource.Cache
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.exe
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.pdb
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry_Hernandez_W1_POS409_Tip_Calculator.Main.resources
+C:\Users\Henry\Desktop\POS409\W1\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\bin\Debug\Henry Hernandez W1 POS409 Tip Calculator.exe.config
+C:\Users\Henry\Desktop\POS409\W1\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.exe
+C:\Users\Henry\Desktop\POS409\W1\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.pdb
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\bin\Debug\Henry Hernandez W1 POS409 Tip Calculator.exe.config
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\bin\Debug\Henry Hernandez W1 POS409 Tip Calculator.exe
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\bin\Debug\Henry Hernandez W1 POS409 Tip Calculator.pdb
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry_Hernandez_W1_POS409_Tip_Calculator.Main.resources
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry_Hernandez_W1_POS409_Tip_Calculator.Properties.Resources.resources
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.csproj.GenerateResource.Cache
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.exe
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\Henry Hernandez W1 POS409 Tip Calculator\obj\Debug\Henry Hernandez W1 POS409 Tip Calculator.pdb
